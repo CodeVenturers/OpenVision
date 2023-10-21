@@ -1,5 +1,5 @@
+![ai_banner](https://github.com/CodeVenturers/OpenVision/assets/105106551/7f229428-4189-4310-951c-837948cc39e8)
 # Artificial Intelligence (AI) Overview
-
 ## Table of Contents
 
 - [Introduction](#introduction)
