@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [What is AI?](#what-is-ai)
 - [Use Cases](#use-cases)
+- [Project Vision](#project-vision)
 - [Conclusion](#conclusion)
 
 ## Introduction
