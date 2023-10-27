@@ -4,6 +4,8 @@ import datetime
 responses = {
     "hello": "Hello! How can I help you?",
     "how are you": "I'm just a computer program, so I don't have feelings, but I'm here to assist you!",
+    "what's your name": "GUBBU AI",
+    "bye": "Goodbye! Have a great day!"
     "what's your name": "I'm a simple AI chatbot.",
     "bye": "Goodbye! Have a great day!",
     "time": datetime.datetime.now()
